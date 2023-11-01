@@ -1,2 +1,1 @@
-# Sense
-Code for Sense (NDSS'24)
+# Sense: Enhancing Microarchitectural Awareness for TEEs via Subscription-Based Notification (NDSS'24)
